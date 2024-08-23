@@ -1,1 +1,1 @@
-# practice-session
+# practice-session for ECE Students
